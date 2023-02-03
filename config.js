@@ -18,7 +18,7 @@ global.err4r = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg" /// <AKI
 //// FOTO K
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.numerodonoa = ["5521989701174"]//<AKI
+global.numerodonoa = ["923077900642"]//<AKI
 /// NÚMERO DO " DONO ".... 
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
@@ -37,10 +37,10 @@ global.banChats = false //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 global.gcrevoke = [] //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.packname = "alizin domina - @hackzinhox" //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
+global.packname = "⍟Devil King - @hackzinhox" //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.packname2 = `#Teamduda - by alizin`//// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
+global.packname2 = `#Teamduda - by ⍟Devil`//// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 global.author = "𝐀𝐥𝐢𝐳𝐢𝐧 𝐝𝐞𝐯 🙅🏾‍♂️ " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
